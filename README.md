@@ -12,49 +12,96 @@
 
 ## 🔍 About Me
 
-I'm **Abdullah Al Siam**, a passionate cybersecurity professional with hands-on experience in **EDR**, **SIEM**, **Incident Response**, and **Threat Intelligence**. I specialize in identifying malicious behavior, building detection rules, and creating visual threat landscapes. Currently working in a Security Operations Center (SOC), I’m committed to defending systems and data from adversaries using real-time monitoring and analytics.
+I'm Abdullah Al Siam, a cybersecurity researcher and SOC analyst with a strong foundation in threat detection, incident response, and security operations. With professional experience in tools like Wazuh, CrowdStrike, and ArcSight, I specialize in detecting malicious activity, developing SIEM rules, and managing complex infrastructures across Linux environments.
+
+My research bridges real-world security operations with academic inquiry, focusing on AI-driven cybersecurity solutions, malicious IP detection, and secure medical data handling. I’ve published in IEEE Access (Q1) and other reputable venues, contributing novel frameworks for malware detection and encrypted medical image processing.
 
 ---
 ## Current Roles and Responsibilities
 
-### Executive,Associate Security Operator
-- Class content preparation and conduction
-- Keeping students engaged, motivated, and curious
-- Mentoring students (at least 5 students per day)
-- Designing lab experiments and conducting them
-- 
----
+As an Associate Security Operator at Pathao Pay, I play a key role in ensuring the security and stability of IT infrastructure by:
+
+Monitoring and analyzing real-time security alerts through SIEM platforms to detect anomalies and potential threats.
+
+Managing Security Operations Center (SOC) workflows, including incident triaging, root cause analysis, and timely escalation for resolution.
+
+Collaborating with cross-functional teams to coordinate security responses and strengthen organizational defense mechanisms.
+
+Performing continuous threat hunting and log analysis to identify indicators of compromise (IoCs) and minimize security gaps.
+
+Documenting incident reports and response actions, contributing to improved threat intelligence and response playbooks.
+
+Ensuring compliance with internal security policies and supporting audits with data-driven security metrics.
 
 ## 🛡️ Research Focus
 
-- Behavioral analysis of insider threats
-- Threat intelligence correlation with SIEM (e.g., Wazuh, Splunk)
-- Real-time alerting & detection with Suricata and ELK
-- Log parsing and attack simulation (MITRE ATT&CK mapped)
-- Adaptive alert thresholds for malware detection
+AI-Driven Threat Detection: Designing and evaluating machine learning models to identify malicious IPs, detect anomalies, and respond to zero-day threats in real-time.
+
+Secure Medical Data Handling: Developing algorithms for DICOM image encryption and format conversion (e.g., EGIF, JPEG 2000) to ensure data confidentiality in AI/ML pipelines.
+
+Cyber Threat Intelligence: Investigating advanced techniques for analyzing threat landscapes, malicious behaviors, and attacker TTPs (Tactics, Techniques, and Procedures).
+
+Defensive Security Automation: Building scalable frameworks for SOC operations, integrating SIEM/EDR tools with automated alert handling and response logic.
 
 ---
 ## Research and Publications
 
 ### Journal Articles (13)
-1. **Deep-IDS:** A Real-Time Intrusion Detector for IoT Nodes Using Deep Learning. *IEEE Access*, 2024.
-2. **Survival Analysis of Thyroid Cancer Patients Using Machine Learning Algorithms.** *IEEE Access*, 2024.
-3. **Healthcare As a Service (HAAS): CNN-based cloud computing model for ubiquitous access to lung cancer diagnosis.** *Heliyon*, 2023.
-4. **DPMS: Data-Driven Promotional Management System of Universities Using Deep Learning on Social Media.** *Applied Sciences*, 2023.
-5. **SafetyMed: A Novel IoMT Intrusion Detection System Using CNN-LSTM Hybridization.** *Electronics*, 2023.
+1. A Comprehensive Review of AI’s Current Impact and Future Prospects in Cybersecurity
+Published in: IEEE Access (Q1)
+2. IP SafeGuard – An AI-Driven Malicious IP Detection Framework
+Published in: IEEE Access (Q1)
+3. Diegif: An Efficient and Secured DICOM to EGIF Conversion Framework for Confidentiality in ML Training
+Published in: Results in Control and Optimization (Q2)
+
+4. Artificial Intelligence in Nanotechnology: Key Methodologies and Their Transformative Impact
+Accepted for: RTCSE-2025 (Conference – In Acceptance Phase)
+
+5. A Robust Algorithm for Identifying Malicious IPs Enhancing Cybersecurity Defense
+Accepted for: RTCSE-2025 (Conference – In Acceptance Phase)
+
 
 ### Conference Articles (3)
-1. **Automatic Missing-Child Recovery System using Eigenfaces.** Best Paper Award Winner, IJCCI, 2020.
-2. **How Can a Robot Calculate the Level of Visual Focus of Human's Attention.** IJCCI, 2020.
-3. **Automatic Examinee Validation System using Eigenfaces.** ICASERT, 2019.
+1. Secure Medical Imaging: A DICOM to JPEG 2000 Conversion Algorithm with Integrated Encryption
+Published in: ICAIC-2025 (IEEE Conference)
+
+2. Artificial Intelligence for Cybersecurity: A State of the Art
+Published in: ICAIC-2025 (IEEE Conference)
+
+3. AI-Driven Secure Semantic Communication with Dynamic Encryption for Real-Time Data Integrity
+
 
 ## 🛠️ Tools & Technologies
 
-- **EDR & SIEM:** Wazuh, Splunk, CrowdStrike Falcon, OSSEC
-- **Threat Detection:** Suricata, YARA, Zeek, Sigma Rules
-- **Languages:** Python, Bash, PowerShell
-- **Cloud & Infrastructure:** AWS, Elastic Stack, Docker
-- **Vulnerability Scanning:** Nessus, Nmap, Nikto, OWASP ZAP
+🔐 Cybersecurity Tools
+SIEM Platforms: ArcSight, Wazuh, Kibana, Elasticsearch
+
+EDR Solutions: CrowdStrike Falcon
+
+Intrusion Prevention: Trellix IPS
+
+Vulnerability Assessment & Pentesting: Nessus, Burp Suite, Metasploit
+
+Network Monitoring & Analysis: Wireshark
+
+Access & Identity Management: Privileged Access Management (PAM), Atlas (Ticketing)
+
+💻 Operating Systems & System Administration
+Linux (Ubuntu, Red Hat) – Configuration, hardening, and troubleshooting
+
+Windows Server – Basic administration and log analysis
+
+🧠 Programming & Scripting
+Languages: Python, Bash, C, C++
+
+Automation & Detection Rules: Bash scripts, custom rule creation for SIEM
+
+📊 Data Visualization & Reporting
+Kibana dashboards
+
+SIEM alert tuning and log correlation
+
+Report writing and incident documentation
 
 ---
 
@@ -72,39 +119,64 @@ I'm **Abdullah Al Siam**, a passionate cybersecurity professional with hands-on 
 
 ## Academic Qualifications
 
-| Exam Title | Concentration / Major | Institute | Result | Passing Year | Duration | Achievement |
-|------------|-----------------------|-----------|--------|--------------|----------|-------------|
-| Bachelor in Engineering (B.Sc.) | Electrical & Electronic Engineering | North South University | 86.7% marks | 2016 | 4 Years | Electrical Engineering Degree |
-| HSC | Science | BPATC College | CGPA: 4.30/5 | 2010 | 2 Years | Higher Secondary School Certificate |
-| SSC | Science | BPATC School | CGPA: 5/5 | 2008 | 10 Years | Secondary School Certificate |
+| Exam Title                  | Concentration / Major                         | Institute                                  | Result          | Passing Year | Duration | Achievement                  |
+| --------------------------- | --------------------------------------------- | ------------------------------------------ | --------------- | ------------ | -------- | ---------------------------- |
+| Bachelor of Science (B.Sc.) | Software Engineering (Major in Cybersecurity) | Daffodil International University          | CGPA: 3.88/4.00 | 2023         | 4 Years  | Graduated with Distinction   |
+| HSC                         | Science                                       | Ghatail Cantonment Public School & College | GPA: 4.50/5.00  | 2018         | 2 Years  | Higher Secondary Certificate |
+| SSC                         | Science                                       | Dewpara Gono High School                   | GPA: 4.61/5.00  | 2016         | 5 Years  | Secondary School Certificate |
 
 ---
 
 ## Awards and Achievements
 
-- **Excellence in Teaching Award:** Best Teacher at the Daffodil International University, 2023
-- **Excellence in Service:** Most active newcomer in the department, 2022
+🥉 9th Position in DIU Take Off Programming Contest, Fall 2019
+Organized by Daffodil International University – Department of Software Engineering
+
+📰 Published 7 Research Papers in reputed journals and conferences, including:
+
+IEEE Access (Q1 Journal)
+
+Results in Control and Optimization (Q2)
+
+ICAIC-2025 and RTCSE-2025 (IEEE Conferences)
+
+🎓 Graduated with Distinction from Daffodil International University with a GPA of 3.88/4.00 in Software Engineering
+
+✍️ Peer Reviewer for IEEE Access Journal, with reviews on 12 research papers in cybersecurity and AI
 
 ---
 
 ## Experience and Employment History
 
-| Serial | Designation | Organization / Institute | Service Period | Experience |
-|--------|-------------|--------------------------|----------------|------------|
-| 1 | SOC Analyst | Enterprice Infosec Consaltant | 1-July-2023 to now | 4 Months+ |
-| 2 | Executive, Associate Security Operator | Fintech Engineering Department | 1-January-2022 to 30-June-2023 | Current Working Here |
-| 3 | Lecturer | | 16-October-2021 to 31-December-2021 | 2 Months |
+| Serial | Designation                 | Organization / Institute                                 | Service Period            | Experience      |
+| ------ | --------------------------- | -------------------------------------------------------- | ------------------------- | --------------- |
+| 1      | Associate Security Operator | Pathao Pay                                               | March 2025 – Present      | Current         |
+| 2      | SOC Analyst                 | Enterprise InfoSec Consultants (EIC)                     | June 2023 – February 2025 | 1 Year 9 Months |
+| 3      | Researcher                  | Cyber Security Centre, Daffodil International University | July 2022 – January 2023  | 7 Months        |
 
-**Total Experience:** 3 Years
+
+**Total Experience:** 2 Years 6 Months+
 
 ---
 
 ## 📜 Certifications
 
-- Certified Threat Intelligence Analyst (CTIA) – EC-Council *(In Progress)*
-- Offensive Security Certified Professional (OSCP) *(In Progress)*
-- AWS Cloud Practitioner – Amazon Web Services
-- Google Cybersecurity Certificate
+CEH – Certified Ethical Hacker
+Issued by EC-Council
+
+NDE – Network Defense Essentials
+Issued by EC-Council
+
+SOC – Security Operations Center Analyst
+Issued by Coursera
+
+EHE – Ethical Hacking Essentials
+Issued by EC-Council
+
+CTI 101 – Cyber Threat Intelligence 101
+Issued by arcX
+
+
 
 ---
 
@@ -112,42 +184,48 @@ I'm **Abdullah Al Siam**, a passionate cybersecurity professional with hands-on 
 
 | Name | Designation | University | Country | Email |
 |------|-------------|------------|---------|-------|
-| Dr. Alistair Barros | Professor | Queensland University of Technology | Australia | [alistair.barros@qut.edu.au](mailto:alistair.barros@qut.edu.au) |
-| Dr. Tony Jan | Professor | Torrens University | Australia | [jan@torrens.edu.au](mailto:jan@torrens.edu.au) |
-| Dr. Md Whaiduzzaman | Professor | Queensland University of Technology | Australia | [md.whaiduzzaman@qut.edu.au](mailto:md.whaiduzzaman@qut.edu.au) |
-| Dr. Muhammad Ashad Kabir | Associate Professor | Charles Sturt University | Australia | [akabir@csu.edu.au](mailto:akabir@csu.edu.au) |
-| Dr. Mohammad Ali Moni | Senior Lecturer | University of Queensland | Australia | [m.moni@uq.edu.au](mailto:m.moni@uq.edu.au) |
-| Dr. Faris A. Kateb | Assistant Professor | King Abdulaziz University | Saudi Arabia | [fakateb@kau.edu.sa](mailto:fakateb@kau.edu.sa) |
-| Dr. Md. Abdul Hamid | Professor | King Abdulaziz University | Saudi Arabia | [mabdulhamid1@kau.edu.sa](mailto:mabdulhamid1@kau.edu.sa) |
+| Dr. Moutaz Alazab | Professor | Al-Balqa Applied University | Jordan | [m.alazab@bau.edu.jo](mailto:m.alazab@bau.edu.jo) |
+| Dr. Mohammad Ali Moni | Professor | University of Queensland | Australia | [m.moni@uq.edu.au](mailto:m.moni@uq.edu.au) |
 
 
 ## 📫 Contact
 
-- **Email:** siam.cybersec@protonmail.com  
-- **GitHub:** [github.com/siamcyber](https://github.com/siamcyber)
-- **LinkedIn:** [linkedin.com/in/abdullahsiam](https://linkedin.com/in/abdullahsiam)
+📍 Address: Mirpur, Dhaka, Bangladesh
+
+📧 Email: aasiam.cs@gmail.com
+
+📞 Phone: +8801776333900
+
+🌐 Website: https://sites.google.com/diu.edu.bd/aasiam
+
+🔗 LinkedIn: linkedin.com/in/siam-cs
+
+💻 GitHub: github.com/aasiam-cs
+
+🎓 Google Scholar: Scholar Profile
+
+🧬 ORCID: 0009-0006-6861-6188
 
 ---
 
 ## References
 
-### Reference 1
-- **Name:** 
-- **Organization:** Institute of Information Technology, Jahangirnagar University
-- **Designation:** Professor
-- **Address:** Savar, Dhaka-1342, Bangladesh
-- **Phone Number:** +8801711469636
-- **Email:** [yousuf@juniv.edu](mailto:yousuf@juniv.edu)
-- **Relation:** Academic
+📄 Reference 1
+Name: Mr. Nuruzzaman Faruqui
 
-### Reference 2
-- **Name:** Dr. Imran Mahmud
-- **Organization:** Department of Software Engineering, Daffodil International University
-- **Designation:** Departmental Head and Associate Professor
-- **Address:** Daffodil Smart City, Birulia 1216, Bangladesh
-- **Phone Number:** +8801711370502
-- **Email:** [imranmahmud@daffodilvarsity.edu.bd](mailto:imranmahmud@daffodilvarsity.edu.bd)
-- **Relation:** Professional
+Organization: Department of Software Engineering, Daffodil International University
+
+Designation: Assistant Professor
+
+Address: Daffodil Smart City, Ashulia, Savar, Dhaka-1341, Bangladesh
+
+Phone Number: +8801763341153
+
+Email: faruqui.swe@diu.edu.bd
+
+Relation: Academic Supervisor
+
+
 
 ## 🏆 Achievements Gallery
 
