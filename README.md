@@ -232,22 +232,15 @@ Relation: Academic Supervisor
 <table>
   <tr>
     <td align="center">
-      <img src="oscp.jpg" width="300"/><br>
-      <b>Best SOC Analyst 2024</b>
+      <img src="oscp.jpg" width="300" height="400"/><br>
+      <br>
+      <br>
+      <br>
+      <b>DIU Fall-19 programming contest</b>
     </td>
     <td align="center">
-      <img src="https://pbs.twimg.com/media/GvLjivlbkAAkNOd?format=jpg&name=4096x4096" width="300"/><br>
+      <img src="https://pbs.twimg.com/media/GvLjivlbkAAkNOd?format=jpg&name=4096x4096" width="300" height="300"/><br>
       <b>University Convocation - Daffodil International University</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/300x200.png?text=OSCP+Badge" width="300"/><br>
-      <b>OSCP Training Completion</b>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/300x200.png?text=Speaker+at+Cyber+Conf" width="300"/><br>
-      <b>Speaker - Cyber Defense Conf 2025</b>
     </td>
   </tr>
 </table>
