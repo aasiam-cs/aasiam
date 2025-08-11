@@ -48,14 +48,14 @@ Defensive Security Automation: Building scalable frameworks for SOC operations, 
 
 ### Journal Articles (13)
 1. A Comprehensive Review of AI’s Current Impact and Future Prospects in Cybersecurity
-Published in: IEEE Access (Q1)
+Published in: IEEE Access (Q1): https://ieeexplore.ieee.org/document/10836696
 2. IP SafeGuard – An AI-Driven Malicious IP Detection Framework
-Published in: IEEE Access (Q1)
+Published in: IEEE Access (Q1): https://ieeexplore.ieee.org/document/11002475
 3. Diegif: An Efficient and Secured DICOM to EGIF Conversion Framework for Confidentiality in ML Training
-Published in: Results in Control and Optimization (Q2)
+Published in: Results in Control and Optimization (Q2): https://www.sciencedirect.com/science/article/pii/S2666720725000013?via%3Dihub
 
 4. Artificial Intelligence in Nanotechnology: Key Methodologies and Their Transformative Impact
-Accepted for: RTCSE-2025 (Conference – In Acceptance Phase)
+Accepted for: RTCSE-2025 (Conference – In Acceptance Phase): https://ieeexplore.ieee.org/document/10848980
 
 5. A Robust Algorithm for Identifying Malicious IPs Enhancing Cybersecurity Defense
 Accepted for: RTCSE-2025 (Conference – In Acceptance Phase)
@@ -63,7 +63,7 @@ Accepted for: RTCSE-2025 (Conference – In Acceptance Phase)
 
 ### Conference Articles (3)
 1. Secure Medical Imaging: A DICOM to JPEG 2000 Conversion Algorithm with Integrated Encryption
-Published in: ICAIC-2025 (IEEE Conference)
+Published in: ICAIC-2025 (IEEE Conference): https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MqaeDDEAAAAJ&citation_for_view=MqaeDDEAAAAJ:9yKSN-GCB0IC
 
 2. Artificial Intelligence for Cybersecurity: A State of the Art
 Published in: ICAIC-2025 (IEEE Conference)
