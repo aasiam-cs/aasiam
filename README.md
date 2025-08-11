@@ -196,15 +196,16 @@ Issued by arcX
 
 📞 Phone: +8801776333900
 
-🌐 Website: https://sites.google.com/diu.edu.bd/aasiam
+🌐 Website: [https://sites.google.com/diu.edu.bd/aasiam](https://sites.google.com/diu.edu.bd/aasiam)
 
-🔗 LinkedIn: linkedin.com/in/siam-cs
+🔗 LinkedIn: [linkedin.com/in/siam-cs](https://www.linkedin.com/in/aasiam/)
 
-💻 GitHub: github.com/aasiam-cs
+💻 GitHub: [github.com/aasiam-cs](https://github.com/aasiam-cs)
 
-🎓 Google Scholar: Scholar Profile
+🎓 Google Scholar: [Scholar Profile](https://scholar.google.com/citations?user=MqaeDDEAAAAJ&hl=en
+)
 
-🧬 ORCID: 0009-0006-6861-6188
+🧬 ORCID: [0009-0006-6861-6188](https://orcid.org/0009-0006-6861-6188)
 
 ---
 
