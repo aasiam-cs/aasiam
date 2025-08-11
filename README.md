@@ -232,7 +232,7 @@ Relation: Academic Supervisor
 <table>
   <tr>
     <td align="center">
-      <img src="https://pbs.twimg.com/media/GvLjivlbkAAkNOd?format=jpg&name=4096x4096" width="300"/><br>
+      <img src="oscp.jpg" width="300"/><br>
       <b>Best SOC Analyst 2024</b>
     </td>
     <td align="center">
