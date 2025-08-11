@@ -12,36 +12,36 @@
 
 ## 🔍 About Me
 
-I'm Abdullah Al Siam, a cybersecurity researcher and SOC analyst with a strong foundation in threat detection, incident response, and security operations. With professional experience in tools like Wazuh, CrowdStrike, and ArcSight, I specialize in detecting malicious activity, developing SIEM rules, and managing complex infrastructures across Linux environments.
+I'm Abdullah Al Siam, a **cybersecurity researcher** and **SOC analyst** with a strong foundation in threat detection, incident response, and security operations. With professional experience in tools like Wazuh, CrowdStrike, and ArcSight, I specialize in detecting malicious activity, developing SIEM rules, and managing complex infrastructures across Linux environments.
 
 My research bridges real-world security operations with academic inquiry, focusing on AI-driven cybersecurity solutions, malicious IP detection, and secure medical data handling. I’ve published in IEEE Access (Q1) and other reputable venues, contributing novel frameworks for malware detection and encrypted medical image processing.
 
 ---
 ## Current Roles and Responsibilities
 
-As an Associate Security Operator at Pathao Pay, I play a key role in ensuring the security and stability of IT infrastructure by:
+As an **Associate Security Operator** at **Pathao Pay**, I have:
 
-Monitoring and analyzing real-time security alerts through SIEM platforms to detect anomalies and potential threats.
+🔍**Strengthened Threat Detection** – Optimized SIEM alert tuning and analysis, improving anomaly detection accuracy and reducing false positives by streamlining alert workflows.
 
-Managing Security Operations Center (SOC) workflows, including incident triaging, root cause analysis, and timely escalation for resolution.
+⚡**Enhanced SOC Efficiency**– Led incident triaging processes that cut average response time, enabling faster containment and remediation of threats.
 
-Collaborating with cross-functional teams to coordinate security responses and strengthen organizational defense mechanisms.
+🤝 **Coordinated Critical Incident Responses** – Collaborated with cross-functional teams to resolve high-priority security events with minimal downtime and zero data loss.
 
-Performing continuous threat hunting and log analysis to identify indicators of compromise (IoCs) and minimize security gaps.
+🕵 **Advanced Threat Hunting Capabilities** – Identified and mitigated multiple Indicators of Compromise (IoCs) through proactive log analysis, preventing potential breaches.
 
-Documenting incident reports and response actions, contributing to improved threat intelligence and response playbooks.
+📄 **Improved Incident Intelligence** – Authored detailed incident reports and updated response playbooks, strengthening the organization’s defense strategies.
 
-Ensuring compliance with internal security policies and supporting audits with data-driven security metrics.
+✅**Supported Compliance & Audits** – Successfully met internal security compliance benchmarks and facilitated audits with comprehensive security metrics and documentation.
 
 ## 🛡️ Research Focus
 
-AI-Driven Threat Detection: Designing and evaluating machine learning models to identify malicious IPs, detect anomalies, and respond to zero-day threats in real-time.
+**🔍 AI-Driven Threat Detection** – Designed and evaluated machine learning models to identify malicious IPs, detect anomalies, and respond to zero-day threats in real time, boosting proactive defense.
 
-Secure Medical Data Handling: Developing algorithms for DICOM image encryption and format conversion (e.g., EGIF, JPEG 2000) to ensure data confidentiality in AI/ML pipelines.
+**🛡 Secure Medical Data Handling** – Developed algorithms for DICOM image encryption and format conversion (EGIF, JPEG 2000) to ensure confidentiality in AI/ML medical imaging workflows.
 
-Cyber Threat Intelligence: Investigating advanced techniques for analyzing threat landscapes, malicious behaviors, and attacker TTPs (Tactics, Techniques, and Procedures).
+**🌐 Cyber Threat Intelligence** – Investigated advanced techniques for analyzing threat landscapes, malicious behaviors, and attacker TTPs (Tactics, Techniques, and Procedures).
 
-Defensive Security Automation: Building scalable frameworks for SOC operations, integrating SIEM/EDR tools with automated alert handling and response logic.
+**⚙ Defensive Security Automation** – Built scalable SOC automation frameworks integrating SIEM/EDR tools with intelligent alert handling and automated response logic.
 
 ---
 ## Research and Publications
@@ -74,17 +74,17 @@ Published in: ICAIC-2025 (IEEE Conference)
 ## 🛠️ Tools & Technologies
 
 🔐 Cybersecurity Tools
-SIEM Platforms: ArcSight, Wazuh, Kibana, Elasticsearch
+**SIEM Platforms:** ArcSight, Wazuh, Kibana, Elasticsearch
 
-EDR Solutions: CrowdStrike Falcon
+**EDR Solutions:** CrowdStrike Falcon
 
-Intrusion Prevention: Trellix IPS
+**Intrusion Prevention:** Trellix IPS
 
-Vulnerability Assessment & Pentesting: Nessus, Burp Suite, Metasploit
+**Vulnerability Assessment & Pentesting:** Nessus, Burp Suite, Metasploit
 
-Network Monitoring & Analysis: Wireshark
+**Network Monitoring & Analysis:** Wireshark
 
-Access & Identity Management: Privileged Access Management (PAM), Atlas (Ticketing)
+**Access & Identity Management:** Privileged Access Management (PAM), Atlas (Ticketing)
 
 💻 Operating Systems & System Administration
 Linux (Ubuntu, Red Hat) – Configuration, hardening, and troubleshooting
