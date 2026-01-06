@@ -12,9 +12,8 @@
 
 ## 🔍 About Me
 
-I'm Abdullah Al Siam, a **cybersecurity researcher** and **SOC analyst** with a strong foundation in threat detection, incident response, and security operations. With professional experience in tools like Wazuh, CrowdStrike, and ArcSight, I specialize in detecting malicious activity, developing SIEM rules, and managing complex infrastructures across Linux environments.
 
-My research bridges real-world security operations with academic inquiry, focusing on AI-driven cybersecurity solutions, malicious IP detection, and secure medical data handling. I’ve published in IEEE Access (Q1) and other reputable venues, contributing novel frameworks for malware detection and encrypted medical image processing.
+I'm Abdullah Al Siam is a **Cybersecurity Professional | AI & Cybersecurity Researcher** specializing in AI-driven threat detection, SIEM-based security monitoring, malicious IP identification and AI-driven security analytics. I have published multiple peer-reviewed research papers, including in IEEE Access (Q1), and serves as a reviewer for the IEEE Access journal. My research and professional work focus on bridging real-world SOC operations with intelligent, data-driven cybersecurity solutions.
 
 ---
 ## Current Roles and Responsibilities
