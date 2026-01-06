@@ -1,6 +1,6 @@
 
 <h1 align="center">Abdullah Al Siam</h1>
-<h3 align="center"><i>Cybersecurity Researcher | SOC Analyst | Threat Hunter</i></h3>
+<h3 align="center"><i>Cybersecurity Professional | AI & Cybersecurity Researcher</i></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Cybersecurity-blueviolet?style=flat-square"/>
@@ -13,7 +13,7 @@
 ## 🔍 About Me
 
 
-I'm Abdullah Al Siam is a **Cybersecurity Professional | AI & Cybersecurity Researcher** specializing in AI-driven threat detection, SIEM-based security monitoring, malicious IP identification and AI-driven security analytics. I have published multiple peer-reviewed research papers, including in IEEE Access (Q1), and serves as a reviewer for the IEEE Access journal. My research and professional work focus on bridging real-world SOC operations with intelligent, data-driven cybersecurity solutions.
+Abdullah Al Siam is a cybersecurity professional and AI & cybersecurity researcher specializing in AI-driven threat detection, SIEM-based security monitoring, malicious IP identification and AI-driven security analytics. He has published multiple peer-reviewed research papers, including in IEEE Access (Q1), and serves as a reviewer for the IEEE Access journal. His research and professional work focus on bridging real-world SOC operations with intelligent, data-driven cybersecurity solutions.
 
 ---
 ## Current Roles and Responsibilities
