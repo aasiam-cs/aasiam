@@ -3,9 +3,11 @@
 <h3 align="center"><i>Cybersecurity Professional | AI & Cybersecurity Researcher</i></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Cybersecurity-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Threat%20Intel-Analyst-darkgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/EDR&SIEM-Expert-ff69b4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Domain-Cybersecurity%20%26%20AI-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SOC-SIEM%20%26%20Incident%20Response-darkgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Research-AI--Driven%20Cyber%20Defense-ff69b4?style=flat-square"/>
+</p>
+
 </p>
 
 ---
