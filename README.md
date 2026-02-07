@@ -49,7 +49,7 @@ As an **Associate Security Operator** at **Pathao Pay**, I have:
 ---
 ## Research and Publications
 
-### Journal Articles (13)
+### Journal Articles (4)
 1. A Comprehensive Review of AI’s Current Impact and Future Prospects in Cybersecurity
 Published in: IEEE Access (Q1): https://ieeexplore.ieee.org/document/10836696
 2. IP SafeGuard – An AI-Driven Malicious IP Detection Framework
@@ -57,11 +57,6 @@ Published in: IEEE Access (Q1): https://ieeexplore.ieee.org/document/11002475
 3. Diegif: An Efficient and Secured DICOM to EGIF Conversion Framework for Confidentiality in ML Training
 Published in: Results in Control and Optimization (Q2): https://www.sciencedirect.com/science/article/pii/S2666720725000013?via%3Dihub
 
-4. Artificial Intelligence in Nanotechnology: Key Methodologies and Their Transformative Impact
-Accepted for: RTCSE-2025 (Conference – In Acceptance Phase): https://ieeexplore.ieee.org/document/10848980
-
-5. A Robust Algorithm for Identifying Malicious IPs Enhancing Cybersecurity Defense
-Accepted for: RTCSE-2025 (Conference – In Acceptance Phase)
 
 
 ### Conference Articles (3)
@@ -71,7 +66,9 @@ Published in: ICAIC-2025 (IEEE Conference): https://scholar.google.com/citations
 2. Artificial Intelligence for Cybersecurity: A State of the Art
 Published in: ICAIC-2025 (IEEE Conference)
 
-3. AI-Driven Secure Semantic Communication with Dynamic Encryption for Real-Time Data Integrity
+4. AI-Driven Secure Semantic Communication with Dynamic Encryption for Real-Time Data Integrity
+5. Artificial Intelligence in Nanotechnology: Key Methodologies and Their Transformative Impact
+6. A Robust Algorithm for Identifying Malicious IPs Enhancing Cybersecurity Defense
 
 
 ## 🛠️ Tools & Technologies
@@ -191,24 +188,61 @@ Issued by arcX
 | Dr. Mohammad Ali Moni | Professor | University of Queensland | Australia | [m.moni@uq.edu.au](mailto:m.moni@uq.edu.au) |
 
 
+
+
+## 🔗 Profiles & Research
+
+- 🎓 **Google Scholar**  
+  https://scholar.google.com/citations?user=MqaeDDEAAAAJ&hl=en
+
+- 📘 **IEEE Xplore Author Profile**  
+  https://ieeexplore.ieee.org/author/814487209487041
+
+- 🧬 **ORCID**  
+  https://orcid.org/0009-0006-6861-6188
+
+- 📊 **Semantic Scholar**  
+  https://www.semanticscholar.org/author/Abdullah-Al-Siam/2341918565
+
+- 📚 **DBLP**  
+  https://dblp.org/pid/396/6680.html
+
+- 📚 **Web of Science ResearcherID**  
+  https://www.webofscience.com/wos/author/record/LJS-0000-2024
+
+- 🧑‍💼 **LinkedIn**  
+  https://www.linkedin.com/in/aasiam/
+
+- 🔬 **ResearchGate**  
+  https://www.researchgate.net/profile/Abdullah-Siam-2
+
+- 🏛 **Daffodil International University – Research Portal**  
+  https://research.daffodilvarsity.edu.bd/scopus-article?search=Abdullah+Al+Siam&department=&year=
+
+- 💻 **GitHub**  
+  https://github.com/aasiam-cs
+
+
+---
+
 ## 📫 Contact
 
-📍 Address: Mirpur, Dhaka, Bangladesh
+- 📍 **Location:** Mirpur, Dhaka, Bangladesh  
+- 📧 **Email:** aasiam.cs@gmail.com
+- 📧 **Facebook:** 
+      https://www.facebook.com/aasiam.cs
+  
 
-📧 Email: aasiam.cs@gmail.com
+---
 
-📞 Phone: +8801776333900
+## 🔑 Research Interests
 
-🌐 Website: [https://sites.google.com/diu.edu.bd/aasiam](https://sites.google.com/diu.edu.bd/aasiam)
-
-🔗 LinkedIn: [linkedin.com/in/siam-cs](https://www.linkedin.com/in/aasiam/)
-
-💻 GitHub: [github.com/aasiam-cs](https://github.com/aasiam-cs)
-
-🎓 Google Scholar: [Scholar Profile](https://scholar.google.com/citations?user=MqaeDDEAAAAJ&hl=en
-)
-
-🧬 ORCID: [0009-0006-6861-6188](https://orcid.org/0009-0006-6861-6188)
+- AI-driven cybersecurity  
+- Malicious IP detection  
+- Intrusion detection systems  
+- Encrypted traffic analysis  
+- Secure medical imaging  
+- Machine learning for cybersecurity
 
 ---
 
