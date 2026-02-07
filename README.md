@@ -232,7 +232,7 @@ Issued by arcX
 - 📧 **Facebook:** 
       https://www.facebook.com/aasiam.cs
 - 📧 **Site:** 
-  aasiam-cs-exg9jr2.gamma.site
+  https://aasiam-cs-exg9jr2.gamma.site/
   
 
 ---
