@@ -13,9 +13,7 @@
 ---
 
 ## 🔍 About Me
-Abdullah Al Siam is a cybersecurity professional and researcher specializing in AI-driven cybersecurity. He has expertise in SOC operations, SIEM-based security monitoring, AI-driven threat detection, and cybersecurity analytics. He has published multiple peer-reviewed research papers, including in IEEE Access (Q1), and serves as a reviewer for the IEEE Access journal.
-
-His research focuses on artificial intelligence for cybersecurity, including malicious IP detection, intrusion detection systems, encrypted traffic analysis, and secure medical imaging. Through both research and industry practice, he works on bridging real-world Security Operations Center (SOC) environments with intelligent, data-driven cybersecurity solutions.
+Abdullah Al Siam is a cybersecurity professional and AI & cybersecurity researcher specializing in AI-driven threat detection, SIEM-based security monitoring, and cybersecurity analytics. He has authored over fifteen peer-reviewed research publications in leading international journals, including IEEE Access, Wiley, and Elsevier, and serves as a reviewer for the IEEE Access journal. His work focuses on integrating real-world SOC operations with intelligent, data-driven cybersecurity solutions for next-generation cyber defense systems.
 
 
 
