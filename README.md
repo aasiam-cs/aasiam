@@ -54,20 +54,30 @@ Published in: IEEE Access (Q1): https://ieeexplore.ieee.org/document/10836696
 Published in: IEEE Access (Q1): https://ieeexplore.ieee.org/document/11002475
 3. Diegif: An Efficient and Secured DICOM to EGIF Conversion Framework for Confidentiality in ML Training
 Published in: Results in Control and Optimization (Q2): https://www.sciencedirect.com/science/article/pii/S2666720725000013?via%3Dihub
+4.Securing the Unseen: A Comprehensive Exploration Review of AI-Powered Models for Zero-Day Attack Detection
+Published in: Expert Systems (Wiley) (Q2): [https://www.sciencedirect.com/science/article/pii/S2666720725000013?via%3Dihub](https://onlinelibrary.wiley.com/doi/10.1111/exsy.70217)
 
 
 
-### Conference Articles (3)
-1. Secure Medical Imaging: A DICOM to JPEG 2000 Conversion Algorithm with Integrated Encryption
-Published in: ICAIC-2025 (IEEE Conference): https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MqaeDDEAAAAJ&citation_for_view=MqaeDDEAAAAJ:9yKSN-GCB0IC
 
-2. Artificial Intelligence for Cybersecurity: A State of the Art
-Published in: ICAIC-2025 (IEEE Conference)
+### Conference Articles (9)
+1. Secure Medical Imaging: A DICOM to JPEG 2000 Conversion Algorithm with Integrated Encryption — ICAIC 2025
 
-4. AI-Driven Secure Semantic Communication with Dynamic Encryption for Real-Time Data Integrity
-5. Artificial Intelligence in Nanotechnology: Key Methodologies and Their Transformative Impact
-6. A Robust Algorithm for Identifying Malicious IPs Enhancing Cybersecurity Defense
+2. Artificial Intelligence for Cybersecurity: A State of the Art — ICAIC 2025
 
+3. Artificial Intelligence in Nanotechnology: Key Methodologies and Their Transformative Impact — CICN 2025
+
+4. A Robust Algorithm for Identifying Malicious IPs Enhancing Cybersecurity Defense — MPCON 2025
+
+5. Automating Malware Detection and Response via Real-Time Threat Feed Integration with Wazuh SIEM — COMPAS 2025
+
+6. AI-Driven Secure Semantic Communication with Dynamic Encryption for Real-Time Data Integrity — ICECIE 2025
+
+7. TransCall: A Transformer-Driven Framework for Zero-Day Malware Detection Using System Call Sequences — ICAIC 2026
+
+8. Real-Time Multi-Source Threat Intelligence Fusion Using Large Language Models — ICAIC 2026
+
+9. Explainable Machine Learning for Malware Detection: A SHAP-Based LightGBM Framework — ICAIC 2026
 
 ## 🛠️ Tools & Technologies
 
