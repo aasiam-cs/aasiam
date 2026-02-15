@@ -49,16 +49,20 @@ As an **Associate Security Operator** at **Pathao Pay**, I have:
 
 ### Journal Articles (4)
 1. A Comprehensive Review of AI’s Current Impact and Future Prospects in Cybersecurity
-Published in: IEEE Access (Q1): https://ieeexplore.ieee.org/document/10836696
+Published in: IEEE Access (Q1)
+https://ieeexplore.ieee.org/document/10836696
 
-3. IP SafeGuard – An AI-Driven Malicious IP Detection Framework
-Published in: IEEE Access (Q1): https://ieeexplore.ieee.org/document/11002475
+2. IP SafeGuard: An AI-Driven Malicious IP Detection Framework
+Published in: IEEE Access (Q1)
+https://ieeexplore.ieee.org/document/11002475
 
-5. Diegif: An Efficient and Secured DICOM to EGIF Conversion Framework for Confidentiality in ML Training
-Published in: Results in Control and Optimization (Q2): https://www.sciencedirect.com/science/article/pii/S2666720725000013?via%3Dihub
+3. Diegif: An Efficient and Secured DICOM to EGIF Conversion Framework for Confidentiality in ML Training
+Published in: Results in Control and Optimization (Q2)
+https://www.sciencedirect.com/science/article/pii/S2666720725000013
 
-4.Securing the Unseen: A Comprehensive Exploration Review of AI-Powered Models for Zero-Day Attack Detection
-Published in: Expert Systems (Wiley) (Q2): [https://www.sciencedirect.com/science/article/pii/S2666720725000013?via%3Dihub](https://onlinelibrary.wiley.com/doi/10.1111/exsy.70217)
+4. Securing the Unseen: A Comprehensive Exploration Review of AI-Powered Models for Zero-Day Attack Detection
+Published in: Expert Systems (Wiley) (Q2)
+https://onlinelibrary.wiley.com/doi/10.1111/exsy.70217
 
 
 
