@@ -293,8 +293,8 @@ Relation: Academic Supervisor
       <b>DIU Fall-19 programming contest</b>
     </td>
     <td align="center">
-      <img src="https://pbs.twimg.com/media/GvLjivlbkAAkNOd?format=jpg&name=4096x4096" width="300" height="300"/><br>
-      <b>University Convocation - Daffodil International University</b>
+      <img src="[https://pbs.twimg.com/media/GvLjivlbkAAkNOd?format=jpg&name=4096x4096](https://lh3.googleusercontent.com/sitesv/APaQ0STtLKKquxuuGpmJzEgI851HJQ4gSAeEBOwQ5BqIodRyDZCBAxi-9E4rrllZLYeu7Qee82bmx5qt0INscQieCPAJwTxL0N0PPtH2DBhgxL4ZqicYAlnhCwCUe-bt67yOcRvkQlj4emgd53uq51Ti_xpZEer_chwNTsx_tCEHf5A-4Pc0bvx_lNoSc6LijdAFMmRzHzp8Cq3f1Wcn0JtCcxgaON5dswSXt5Lt584=w1280)" width="300" height="300"/><br>
+      <b>IEEE 2nd International Conference on Computing, Applications and Systems (COMPAS 2025)</b>
     </td>
   </tr>
 </table>
