@@ -302,73 +302,55 @@
       <p class="muted"></p>
     </section>
 
-    <section class="card gallery">
+ <section class="card gallery">
   <h2>Photo Gallery</h2> 
 
-  <div class="grid gallery-grid">
-    
-    <div>
-      <img src="Abdullah%20Al%20Siam_achivement.jpg" alt="Achievement">
-      <p class="muted center">Achievement</p>
+  <div class="gallery-grid">
+
+    <!-- Row 1 -->
+    <div class="row">
+      <div>
+        <img src="Abdullah%20Al%20Siam_achivement.jpg" alt="Achievement">
+        <p class="muted center">Achievement</p>
+      </div>
+
+      <div>
+        <img src="Abdullah%20Al%20Siam_research_recognition.jpg" alt="Research Recognition">
+        <p class="muted center">Research Recognition</p>
+      </div>
     </div>
 
-    <div>
-      <img src="Abdullah%20Al%20Siam_research_recognition.jpg" alt="Research Recognition">
-      <p class="muted center">Research Recognition</p>
+    <!-- Row 2 -->
+    <div class="row">
+      <div>
+        <img src="Abdullah_Al_Siam_researcher.jpg" alt="Research Work">
+        <p class="muted center">Research Work</p>
+      </div>
+
+      <div>
+        <img src="Abdullah_Al_Siam_Profile.jpg" alt="Profile Photo">
+        <p class="muted center">Profile Photo</p>
+      </div>
     </div>
 
-    <div>
-      <img src="Abdullah_Al_Siam_researcher.jpg" alt="Research Work">
-      <p class="muted center">Research Work</p>
-    </div>
+    <!-- Row 3 -->
+    <div class="row">
+      <div>
+        <img src="Abdullah_Al_Siam.jpg" alt="Professional Image">
+        <p class="muted center">Professional Image</p>
+      </div>
 
-    <div>
-      <img src="Abdullah_Al_Siam_Profile.jpg" alt="Profile Photo">
-      <p class="muted center">Profile Photo</p>
-    </div>
-
-    <div>
-      <img src="Abdullah_Al_Siam.jpg" alt="Professional Image">
-      <p class="muted center">Professional Image</p>
+      <div>
+        <!-- Optional: add 6th image later -->
+        <img src="Abdullah_Al_Siam.jpg" alt="Additional Image">
+        <p class="muted center">Additional Image</p>
+      </div>
     </div>
 
   </div>
 </section>
 
-    /* Base gallery grid */
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Desktop: 3 columns */
-  gap: 20px;
-}
-
-/* Tablet view (≤ 992px) */
-@media (max-width: 992px) {
-  .gallery-grid {
-    grid-template-columns: repeat(2, 1fr); /* 2 columns */
-  }
-}
-
-/* Mobile view (≤ 600px) */
-@media (max-width: 600px) {
-  .gallery-grid {
-    grid-template-columns: 1fr; /* 1 column */
-  }
-}
-
-/* Image styling */
-.gallery-grid img {
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
-  border-radius: 10px;
-}
-
-/* Caption styling */
-.gallery-grid p {
-  margin-top: 8px;
-  font-size: 14px;
-}
+ 
 
     <footer class="center muted" style="margin:28px 0 8px">© <span id="y"></span> Abdullah Al Siam</footer>
   </div>
