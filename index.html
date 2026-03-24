@@ -302,59 +302,84 @@
       <p class="muted"></p>
     </section>
 
- <section class="card gallery">
-  <h2>Photo Gallery</h2> 
+<section class="card gallery">
+  <h2>Photo Gallery</h2>
 
   <div class="gallery-grid">
 
-    <!-- Row 1 -->
-    <div class="row">
-
-      <div>
-        <img src="Abdullah_Al_Siam_Profile.jpg" alt="Profile Photo">
-        <p class="muted center">Profile Photo</p>
-      </div>
-      
-
-      <div>
-        <img src="Abdullah%20Al%20Siam_research_recognition.jpg" alt="Research Recognition">
-        <p class="muted center">Research Recognition</p>
-      </div>
+    <div class="gallery-item">
+      <img src="Abdullah_Al_Siam_Profile.jpg" alt="Abdullah Al Siam Profile Photo">
+      <p class="caption">Profile Photo</p>
     </div>
 
-    <!-- Row 2 -->
-    <div class="row">
-      <div>
-        <img src="Abdullah_Al_Siam_researcher.jpg" alt="Research Work">
-        <p class="muted center">Research Work</p>
-      </div>
-
-      <div>
-        <img src="Abdullah%20Al%20Siam_achivement.jpg" alt="Achievement">
-        <p class="muted center">Achievement</p>
-      </div>
-      
+    <div class="gallery-item">
+      <img src="Abdullah%20Al%20Siam_research_recognition.jpg" alt="Research Recognition Award IEEE">
+      <p class="caption">Research Recognition</p>
     </div>
 
-    <!-- Row 3 -->
-    <div class="row">
-      
+    <div class="gallery-item">
+      <img src="Abdullah_Al_Siam_researcher.jpg" alt="Cybersecurity Research Work">
+      <p class="caption">Research Work</p>
+    </div>
 
-      <div>
-        <!-- Optional: add 6th image later -->
-        <img src="Abdullah_Al_Siam_IEEE_research_Thailand.jpg" alt="Additional Image">
-        <p class="muted center">Presenting Research at Bangkok,Thailand</p>
-      </div>
+    <div class="gallery-item">
+      <img src="Abdullah%20Al%20Siam_achivement.jpg" alt="Academic Achievement">
+      <p class="caption">Achievement</p>
+    </div>
 
-      <div>
-        <img src="Abdullah_Al_Siam.jpg" alt="Professional Image">
-        <p class="muted center">Convocation Image</p>
-      </div>
+    <div class="gallery-item">
+      <img src="Abdullah_Al_Siam_IEEE_research_Thailand.jpg" alt="Presenting Research in Bangkok Thailand IEEE Conference">
+      <p class="caption">IEEE Conference – Thailand</p>
+    </div>
+
+    <div class="gallery-item">
+      <img src="Abdullah_Al_Siam.jpg" alt="Convocation Ceremony">
+      <p class="caption">Convocation</p>
     </div>
 
   </div>
 </section>
 
+    <style>
+
+/* ===== GALLERY SECTION ===== */
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.gallery-item {
+  text-align: center;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.gallery-item img:hover {
+  transform: scale(1.05);
+}
+
+.caption {
+  font-size: 0.9rem;
+  color: #777;
+  margin-top: 8px;
+}
+
+/* ===== MOBILE ===== */
+@media (max-width: 768px) {
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+</style>
  
 
     <footer class="center muted" style="margin:28px 0 8px">© <span id="y"></span> Abdullah Al Siam</footer>
